@@ -1,5 +1,6 @@
 # Ddex
   Projeto para um pequeno site de venda
+  Simples, faltam a adição de camada de negocio e tratamento de exceções
 ## Diagrama de classes
 
 ``` mermaid
